@@ -8,10 +8,8 @@ A modern and sleek news application built using Flutter, utilizing the [NewsAPI]
 Here is a quick look at the app's screenshot:
 ![screenshot](assets/images/screenshot1.jpg)
 ![screenshot](assets/images/screenshot2.jpg)
-![screenshot](assets/images/screenshot3.jpg)
 ![screenshot](assets/images/screenshot4.jpg)
 ![screenshot](assets/images/screenshot5.jpg)
-![screenshot](assets/images/screenshot6.jpg)
 ![screenshot](assets/images/screenshot7.jpg)
 ![screenshot](assets/images/screenshot8.jpg)
 ![screenshot](assets/images/screenshot9.jpg)
